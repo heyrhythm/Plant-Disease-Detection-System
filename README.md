@@ -25,7 +25,7 @@ Potato crops are vulnerable to diseases like Early Blight and Late Blight, leadi
 
 ## 📁 Dataset
 
-- Source: [Kaggle]([https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/rhythm007/potato-disease-data))
+- Source: [Kaggle](https://www.kaggle.com/datasets/rhythm007/potato-disease-data)
 - Total Images: **5403**
   - Early Blight: 2303
   - Late Blight: 2132
