@@ -73,7 +73,7 @@ Potato crops are vulnerable to diseases like Early Blight and Late Blight, leadi
 - Indranil Chatterjee
 - Hirak Naskar
 - Agnik Sarkar  
-👨‍🏫 Under the guidance of **Mr. Sourendranath Mallick**
+👨‍🏫 Under the guidance of **Mr. Sourendranath Mallick**, GCETTB
 
 ## 📚 References
 
