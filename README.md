@@ -84,7 +84,6 @@ Potato crops are vulnerable to diseases like Early Blight and Late Blight, leadi
 
 ---
 
-## 📽️ Demo Video
 
 ## 📽️ Demo Video
 
