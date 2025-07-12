@@ -87,7 +87,7 @@ Potato crops are vulnerable to diseases like Early Blight and Late Blight, leadi
 
 ## 📽️ Integrated the model into a mobile app for real-time image prediction. 
 
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/u/0/folders/1hNwD3HEYje43ijC5-pqcWt5zLskN8T0W)
+[![Watch the demo](https://img.shields.io/badge/Watch-it-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/u/0/folders/1hNwD3HEYje43ijC5-pqcWt5zLskN8T0W)
 
 
 
